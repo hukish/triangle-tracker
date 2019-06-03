@@ -18,9 +18,12 @@ The website contains details about each type of triangle .
 Currently no bug has been identified.
 
 # Behaviour Driven Development
-* The program should return "Please enter a number in the field" when an empty value is entered.
-* The program should return "Not a Triangle" when values entered don't make up a triangle
-* The program should return "Scalene" when values entered make up an Equilateral triangle
+|Behaviour                  | Input       | Output              |
+|--------------------------:|:-----------:|:--------------------
+|Not a triangle             | a+b<c       | cannot form         
+|Triangle with equal sides  |a=b=c        | Equilateral triangle
+|Triangle with 2 equal sides| a+b b+c c+a | Isosceles triangle
+|Triangle with no equal side| a!==b!==c   | Scalene triangle   
 
 
 ## Technologiess Used
