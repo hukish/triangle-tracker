@@ -1,4 +1,4 @@
-# Project Name: Triangle checker
+# Project Name: Triangle Tracker.
  This is Week 2's Independent Project.This website was created in order to determine whether the values form a triangle and the type of triangle it is.
 Date: 30th may 2019
 By: Hudson Saruni
