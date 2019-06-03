@@ -7,7 +7,7 @@ checker.push(parseFloat(prompt("Enter side A: ")));
   }else{
   checker.push(parseFloat(prompt("Enter side B: ")));
     if (isNaN(checker[1])=== true){
-        alert("Please enter a number in the field");
+        alert("Please enter a value in the field");
       }else{
       checker.push(parseFloat(prompt("Enter side C: ")));
         if (isNaN(checker[2])=== true){
