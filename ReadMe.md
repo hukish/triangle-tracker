@@ -23,7 +23,7 @@ Currently no bug has been identified.
 * The program should return "Scalene" when values entered make up an Equilateral triangle
 
 
-## Technologies Used
+## Technologiess Used
 * HTML was used in making the skeleton of the website.
 * CSS was used in styling the document.
 * Javascript was used in making the webpage responsive.
